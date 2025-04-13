@@ -96,8 +96,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Cyb3rK1tsu/Cyb3rK1tsu/output/snake.svg" alt="Snake animation" />
 
 ###
