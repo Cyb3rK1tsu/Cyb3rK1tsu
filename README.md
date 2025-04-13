@@ -28,6 +28,4 @@ I don’t just code — I craft. Looking to create things that leave an impact.
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<img src="https://raw.githubusercontent.com/Cyb3rK1tsu/Cyb3rK1tsu/output/snake.svg" alt="Snake animation" />
-
 ###
